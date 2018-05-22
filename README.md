@@ -1,4 +1,4 @@
-# infoFilter
+# infoFilter (Status: May 22, 2018 comments and suggestions are most welcome. This app aims to save a user's online time by presenting a  customized web-page that suits the user's config settings.)
 initial research on a tool that saves personal time and increase personal Web-related productivity 
 
 #Overview
